@@ -1,0 +1,12 @@
+{
+	"views": 89,
+	"urls": 60,
+	"traffic": 4633202,
+	"crawlers": {
+	   "Wget": 1
+	},
+	"statusCodes": {
+		"200": 88,
+		"302": 1
+	}
+}

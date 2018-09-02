@@ -1,0 +1,12 @@
+{
+	"views": 16,
+	"urls": 5,
+	"traffic": 187990,
+	"crawlers": {
+		"Googlebot": 2
+	},
+	"statusCodes": {
+		"200": 14,
+		"301": 2
+	}
+}
